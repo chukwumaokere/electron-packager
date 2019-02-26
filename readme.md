@@ -208,3 +208,5 @@ These Node modules utilize Electron Packager API hooks:
 - [electron-packager-plugin-non-proprietary-codecs-ffmpeg](https://www.npmjs.com/package/electron-packager-plugin-non-proprietary-codecs-ffmpeg) - replaces the normal version of FFmpeg in Electron with a version without proprietary codecs
 - [electron-rebuild](https://github.com/electron/electron-rebuild) - rebuild native Node.js modules
   against the packaged Electron version
+
+#### Ex: electron-packager . exhibitagenerator --platform=win32 --arch=x64
